@@ -1,0 +1,8 @@
+#!/bin/env python3
+
+# https://pokeapi.co/api/v2/pokemon give me the first 151 pokemons
+# in a csv file with this info: pokemon name, pokemon type 1, pokemon type 2
+
+# normal process
+# threading process with 3 threads
+# compare the times
